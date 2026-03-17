@@ -1,0 +1,18 @@
+8: Multidimensional Arrays
+
+**8.20 (Game: connect four)** Connect four is a two-player board game in which
+the players alternately drop colored disks into a seven-column, six-row
+vertically suspended grid, as shown below.
+
+The objective of the game is to connect four same-colored disks in a row, a
+column, or a diagonal before your opponent can do likewise. The program
+prompts two players to drop a red or yellow disk alternately. Whenever a disk
+is dropped, the program redisplays the board on the console and determines
+the status of the game (win, draw, or continue).
+
+Sample Run for Exercise08_20.java
+
+Enter input data for the program (Sample data provided below. You may modify it.)
+0 3 2 3 1 3 4 3
+
+Show the Sample Output Using the Preceeding Input   Reset
